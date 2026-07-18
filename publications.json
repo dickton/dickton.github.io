@@ -31,8 +31,22 @@
       "award": "",
       "thumbnail": "",
       "links": {
-        "pdf": "https://arxiv.org/abs/2511.13598"
+        "pdf": "https://arxiv.org/abs/2511.13598", 
+        "early access": "https://doi.org/10.1109/JIOT.2026.3709448"
       }
+    },
+    {
+      "title": "Adaptive Differential Privacy for Split Federated Learning via Activation Dynamics",
+      "authors": [
+        "Jiaxiong Tang",
+        "Liantao Wu\u2020",
+        "Peng Sun",
+        "Honglong Chen"
+      ],
+      "venue": "WASA 2026",
+      "selected": 1,
+      "award": "Oral",
+      "thumbnail": ""
     },
     {
       "title": "Sigil: Server-Enforced Watermarking in U-Shaped Split Federated Learning via Gradient Injection",
